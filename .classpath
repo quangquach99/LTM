@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Client_ATM/src"/>
+	<classpathentry kind="src" path="Common_ATM/src"/>
+	<classpathentry kind="src" path="ConnectDatabase/src"/>
+	<classpathentry kind="src" path="Server_ATM/src"/>
+	<classpathentry kind="lib" path="Client_ATM/dist/Client_ATM.jar"/>
+	<classpathentry kind="lib" path="Client_ATM/dist/lib/Common_ATM.jar"/>
+	<classpathentry kind="lib" path="Client_ATM/dist/lib/mysql-connector-java-5.1.43-bin.jar"/>
+	<classpathentry kind="lib" path="Server_ATM/dist/lib/Common_ATM.jar"/>
+	<classpathentry kind="lib" path="Server_ATM/dist/lib/ConnectDatabase.jar"/>
+	<classpathentry kind="lib" path="Server_ATM/dist/lib/mysql-connector-java-5.1.43-bin.jar"/>
+	<classpathentry kind="lib" path="Server_ATM/dist/Server_ATM.jar"/>
+	<classpathentry kind="output" path="Client_ATM/build/classes"/>
+</classpath>
